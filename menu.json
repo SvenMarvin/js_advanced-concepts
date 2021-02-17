@@ -1,6 +1,7 @@
 {
     "javascript" :[
         "foundation",
-        "types"
+        "types",
+        "thetwopillars"
     ]
 }
